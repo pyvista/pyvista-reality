@@ -9,6 +9,7 @@ This is currently a work in progress and the code will be released soon - watch 
 You can download and install VTK with OpenVR (OpenXR coming soon) from the this shared file on Dropbox: 
 
 - https://www.dropbox.com/s/5vsmq6pp30vtaau/vtk-9.1.20220227.dev0-cp39-cp39-win_amd64.whl?dl=0
+- https://www.dropbox.com/s/h88259zwdwpueoh/vtk_openvr-9.2.5.dev0-cp311-cp311-win_amd64.whl?dl=0
 
 Ping [@banesullivan](https://github.com/banesullivan) if you have any issues with the wheel
 
